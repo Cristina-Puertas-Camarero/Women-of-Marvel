@@ -1,0 +1,5 @@
+name,Alignment,Intelligence,Strength,Speed,Durability,Power,Combat,Total,Gender,ventas_totales_woman,ventas_totales_man
+jean_grey,good,100,80,67,100,100,70,517,Female,490,650
+marvel_girl,good,63,85,47,42,100,80,417,Female,NULL,NULL
+phoenix,good,100,80,67,100,100,70,517,Female,NULL,NULL
+thor_girl,good,75,83,70,84,100,70,482,Female,NULL,NULL

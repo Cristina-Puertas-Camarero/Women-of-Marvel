@@ -1,0 +1,6 @@
+name,Alignment,Intelligence,Strength,Speed,Durability,Power,Combat,Total,Gender,ventas_totales_woman,ventas_totales_man
+callisto,bad,63,53,23,42,45,85,311,Female,NULL,NULL
+frenzy,bad,63,53,35,100,38,52,341,Female,NULL,NULL
+goblin_queen,bad,75,10,23,28,65,56,257,Female,NULL,NULL
+mystique,bad,75,12,23,64,58,74,306,Female,370,430
+scarlet_witch,bad,88,10,23,42,67,28,258,Female,550,800

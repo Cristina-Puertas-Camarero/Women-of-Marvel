@@ -1,0 +1,5 @@
+name,Alignment,Intelligence,Strength,Speed,Durability,Power,Combat,Total,Gender,ventas_totales_woman,ventas_totales_man
+doomsday,bad,88,80,67,120,100,90,545,Male,NULL,NULL
+galactus,neutral,100,100,83,100,100,70,553,Male,NULL,NULL
+thanos,bad,88,100,17,100,100,80,485,Male,310,480
+ultron,bad,88,83,42,100,100,64,477,Male,NULL,NULL

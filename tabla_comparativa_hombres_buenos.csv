@@ -1,0 +1,5 @@
+name,Alignment,Intelligence,Strength,Speed,Durability,Power,Combat,Total,Gender,ventas_totales_woman,ventas_totales_man
+hercules,good,63,100,46,85,67,100,461,Male,NULL,NULL
+hulk,good,88,100,47,100,41,85,461,Male,580,600
+thor,good,69,100,92,100,100,85,546,Male,490,650
+vision,good,100,72,54,95,76,70,467,Male,390,420
